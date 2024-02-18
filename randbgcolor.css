@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+#color-indicator {
+    color: rgb(13, 14, 12);
+    margin: 300px 100px 100px 100px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    background-color: aqua;
+    width: 200px;
+}
+
+#button {
+    border: 1px solid #fff;
+    width: 50px;
+    margin: 100px 100px ;
+}
+
